@@ -1,0 +1,200 @@
+{
+    "album": {
+        "artist": "Panzerballett",
+        "image": [
+            {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6ad47e7657a1466e9e05201e20ef74a5.jpg",
+                "size": "small"
+            },
+            {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6ad47e7657a1466e9e05201e20ef74a5.jpg",
+                "size": "medium"
+            },
+            {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6ad47e7657a1466e9e05201e20ef74a5.jpg",
+                "size": "large"
+            },
+            {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ad47e7657a1466e9e05201e20ef74a5.jpg",
+                "size": "extralarge"
+            },
+            {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ad47e7657a1466e9e05201e20ef74a5.jpg",
+                "size": "mega"
+            },
+            {
+                "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ad47e7657a1466e9e05201e20ef74a5.jpg",
+                "size": ""
+            }
+        ],
+        "listeners": "6474",
+        "mbid": "f50a551e-8270-459e-8103-30a2140c4855",
+        "name": "Tank Goodness",
+        "playcount": "71978",
+        "tags": {
+            "tag": [
+                {
+                    "name": "progressive metal",
+                    "url": "https://www.last.fm/tag/progressive+metal"
+                },
+                {
+                    "name": "instrumental",
+                    "url": "https://www.last.fm/tag/instrumental"
+                },
+                {
+                    "name": "jazz metal",
+                    "url": "https://www.last.fm/tag/jazz+metal"
+                },
+                {
+                    "name": "jazz",
+                    "url": "https://www.last.fm/tag/jazz"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://www.last.fm/tag/rock"
+                }
+            ]
+        },
+        "tracks": {
+            "track": [
+                {
+                    "@attr": {
+                        "rank": 1
+                    },
+                    "artist": {
+                        "mbid": "2d11f5e0-1a0f-4681-8239-5539776b6076",
+                        "name": "Panzerballett",
+                        "url": "https://www.last.fm/music/Panzerballett"
+                    },
+                    "duration": 356,
+                    "name": "Some Skunk Funk",
+                    "streamable": {
+                        "#text": "0",
+                        "fulltrack": "0"
+                    },
+                    "url": "https://www.last.fm/music/Panzerballett/Tank+Goodness/Some+Skunk+Funk"
+                },
+                {
+                    "@attr": {
+                        "rank": 2
+                    },
+                    "artist": {
+                        "mbid": "2d11f5e0-1a0f-4681-8239-5539776b6076",
+                        "name": "Panzerballett",
+                        "url": "https://www.last.fm/music/Panzerballett"
+                    },
+                    "duration": 431,
+                    "name": "Mustafari Like Di Carnival",
+                    "streamable": {
+                        "#text": "0",
+                        "fulltrack": "0"
+                    },
+                    "url": "https://www.last.fm/music/Panzerballett/Tank+Goodness/Mustafari+Like+Di+Carnival"
+                },
+                {
+                    "@attr": {
+                        "rank": 3
+                    },
+                    "artist": {
+                        "mbid": "2d11f5e0-1a0f-4681-8239-5539776b6076",
+                        "name": "Panzerballett",
+                        "url": "https://www.last.fm/music/Panzerballett"
+                    },
+                    "duration": 305,
+                    "name": "Giant Steps",
+                    "streamable": {
+                        "#text": "0",
+                        "fulltrack": "0"
+                    },
+                    "url": "https://www.last.fm/music/Panzerballett/Tank+Goodness/Giant+Steps"
+                },
+                {
+                    "@attr": {
+                        "rank": 4
+                    },
+                    "artist": {
+                        "mbid": "2d11f5e0-1a0f-4681-8239-5539776b6076",
+                        "name": "Panzerballett",
+                        "url": "https://www.last.fm/music/Panzerballett"
+                    },
+                    "duration": 397,
+                    "name": "Zehrfunk",
+                    "streamable": {
+                        "#text": "0",
+                        "fulltrack": "0"
+                    },
+                    "url": "https://www.last.fm/music/Panzerballett/Tank+Goodness/Zehrfunk"
+                },
+                {
+                    "@attr": {
+                        "rank": 5
+                    },
+                    "artist": {
+                        "mbid": "2d11f5e0-1a0f-4681-8239-5539776b6076",
+                        "name": "Panzerballett",
+                        "url": "https://www.last.fm/music/Panzerballett"
+                    },
+                    "duration": 365,
+                    "name": "(I've Had) the Time of My Life",
+                    "streamable": {
+                        "#text": "0",
+                        "fulltrack": "0"
+                    },
+                    "url": "https://www.last.fm/music/Panzerballett/Tank+Goodness/(I%27ve+Had)+the+Time+of+My+Life"
+                },
+                {
+                    "@attr": {
+                        "rank": 6
+                    },
+                    "artist": {
+                        "mbid": "2d11f5e0-1a0f-4681-8239-5539776b6076",
+                        "name": "Panzerballett",
+                        "url": "https://www.last.fm/music/Panzerballett"
+                    },
+                    "duration": 324,
+                    "name": "Vulgar Display of Sauerkraut",
+                    "streamable": {
+                        "#text": "0",
+                        "fulltrack": "0"
+                    },
+                    "url": "https://www.last.fm/music/Panzerballett/Tank+Goodness/Vulgar+Display+of+Sauerkraut"
+                },
+                {
+                    "@attr": {
+                        "rank": 7
+                    },
+                    "artist": {
+                        "mbid": "2d11f5e0-1a0f-4681-8239-5539776b6076",
+                        "name": "Panzerballett",
+                        "url": "https://www.last.fm/music/Panzerballett"
+                    },
+                    "duration": 251,
+                    "name": "The Ikea Trauma",
+                    "streamable": {
+                        "#text": "0",
+                        "fulltrack": "0"
+                    },
+                    "url": "https://www.last.fm/music/Panzerballett/Tank+Goodness/The+Ikea+Trauma"
+                },
+                {
+                    "@attr": {
+                        "rank": 8
+                    },
+                    "artist": {
+                        "mbid": "2d11f5e0-1a0f-4681-8239-5539776b6076",
+                        "name": "Panzerballett",
+                        "url": "https://www.last.fm/music/Panzerballett"
+                    },
+                    "duration": 427,
+                    "name": "Take Five",
+                    "streamable": {
+                        "#text": "0",
+                        "fulltrack": "0"
+                    },
+                    "url": "https://www.last.fm/music/Panzerballett/Tank+Goodness/Take+Five"
+                }
+            ]
+        },
+        "url": "https://www.last.fm/music/Panzerballett/Tank+Goodness"
+    }
+}
