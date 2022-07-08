@@ -1,0 +1,1892 @@
+[
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e70"
+        },
+        "Link": "https://hh.ru/vacancy/54418768?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "АО Банк ДОМ.РФ",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior data scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e72"
+        },
+        "Link": "https://hh.ru/vacancy/66198333?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО БиАйЭй-Технолоджиз",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e74"
+        },
+        "Link": "https://hh.ru/vacancy/53885115?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Самокат (ООО Умное пространство)",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e76"
+        },
+        "Link": "https://hh.ru/vacancy/66708180?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Alex Staff Agency",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist (Армения, Ереван)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e78"
+        },
+        "Link": "https://hh.ru/vacancy/67497409?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "EUR",
+        "Employer": "HR Prime",
+        "Place": "Москва",
+        "Salary_max": 4500.0,
+        "Salary_max_rub": 288607.05,
+        "Salary_min": 3500.0,
+        "Salary_min_rub": 224472.15,
+        "Vacancy": "Quantitative Analyst / Data Scientist (алгоритмист)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e7a"
+        },
+        "Link": "https://hh.ru/vacancy/51649877?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Профи (profi.ru)",
+        "Place": "Москва, Аэропорт",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist в направление «Ценообразование»"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e7c"
+        },
+        "Link": "https://hh.ru/vacancy/66964740?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Группа Самолет",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e7e"
+        },
+        "Link": "https://hh.ru/vacancy/66824236?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер для экспертов",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior data scientist (Антифрод)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e80"
+        },
+        "Link": "https://hh.ru/vacancy/67570201?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "РобоФинанс",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (remote)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e82"
+        },
+        "Link": "https://hh.ru/vacancy/67072752?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "inDriver",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (computer vision)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e84"
+        },
+        "Link": "https://hh.ru/vacancy/67562972?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва, Кутузовская и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Lead Data Scientist (ВЭД)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e86"
+        },
+        "Link": "https://hh.ru/vacancy/67318037?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Институт искусственного интеллекта AIRI",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Старший научный сотрудник/Data Scientist по направлению в группу биоинформатика"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e88"
+        },
+        "Link": "https://hh.ru/vacancy/67366123?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "USD",
+        "Employer": "КСК-Эйч Ар",
+        "Place": "Москва",
+        "Salary_max": 5200.0,
+        "Salary_max_rub": 328342.04,
+        "Salary_min": 5200.0,
+        "Salary_min_rub": 328342.04,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e8a"
+        },
+        "Link": "https://hh.ru/vacancy/67314918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+        "Place": "Москва, Аэропорт",
+        "Salary_max": 180000.0,
+        "Salary_max_rub": 180000.0,
+        "Salary_min": 120000.0,
+        "Salary_min_rub": 120000.0,
+        "Vacancy": "Data Scientist (Computer Vision) - Middle"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e8c"
+        },
+        "Link": "https://hh.ru/vacancy/67314841?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+        "Place": "Москва, Аэропорт",
+        "Salary_max": 125000.0,
+        "Salary_max_rub": 125000.0,
+        "Salary_min": 75000.0,
+        "Salary_min_rub": 75000.0,
+        "Vacancy": "Data Scientist (Computer Vision) - Junior"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e8e"
+        },
+        "Link": "https://hh.ru/vacancy/67231044?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "JuicyScore",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": 200000.0,
+        "Salary_min_rub": 200000.0,
+        "Vacancy": "Middle/Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e90"
+        },
+        "Link": "https://hh.ru/vacancy/67579406?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва, Кутузовская и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist (Центр валидации моделей КИБ)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e92"
+        },
+        "Link": "https://hh.ru/vacancy/67488445?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ICL Services",
+        "Place": "Казань",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e94"
+        },
+        "Link": "https://hh.ru/vacancy/66775411?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "СберМаркет",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist в СберМаркет (команда поиска)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f18672fcae09de63e96"
+        },
+        "Link": "https://hh.ru/vacancy/66949310?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "inDriver",
+        "Place": "Москва, Белорусская",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (Antifraud)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63e9c"
+        },
+        "Link": "https://hh.ru/vacancy/67462578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "EUR",
+        "Employer": "Plesk",
+        "Place": "Москва",
+        "Salary_max": 5700.0,
+        "Salary_max_rub": 365568.93,
+        "Salary_min": 3500.0,
+        "Salary_min_rub": 224472.15,
+        "Vacancy": "Data Engineer"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63e9e"
+        },
+        "Link": "https://hh.ru/vacancy/67462579?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "EUR",
+        "Employer": "Plesk",
+        "Place": "Санкт-Петербург",
+        "Salary_max": 5700.0,
+        "Salary_max_rub": 365568.93,
+        "Salary_min": 3500.0,
+        "Salary_min_rub": 224472.15,
+        "Vacancy": "Data Engineer"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63ea0"
+        },
+        "Link": "https://hh.ru/vacancy/67473868?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "ООО Горизонт",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": 200000.0,
+        "Salary_min_rub": 200000.0,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63ea2"
+        },
+        "Link": "https://hh.ru/vacancy/67366124?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "USD",
+        "Employer": "КСК-Эйч Ар",
+        "Place": "Санкт-Петербург",
+        "Salary_max": 5200.0,
+        "Salary_max_rub": 328342.04,
+        "Salary_min": 5200.0,
+        "Salary_min_rub": 328342.04,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63ea4"
+        },
+        "Link": "https://hh.ru/vacancy/66875865?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "Aimers",
+        "Place": "Москва",
+        "Salary_max": 400000.0,
+        "Salary_max_rub": 400000.0,
+        "Salary_min": 200000.0,
+        "Salary_min_rub": 200000.0,
+        "Vacancy": "Data scientist в высокотехнологичный продукт"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63ea6"
+        },
+        "Link": "https://hh.ru/vacancy/67079125?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Ridex GmbH",
+        "Place": "Новосибирск, Площадь Ленина",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63ea8"
+        },
+        "Link": "https://hh.ru/vacancy/67491133?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "АО Citibank",
+        "Place": "Москва, Калужская",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Analyst/Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63eaa"
+        },
+        "Link": "https://hh.ru/vacancy/67229740?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "билайн",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Prodact owner с навыками управления командой data scientist (senior)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63eac"
+        },
+        "Link": "https://hh.ru/vacancy/67454582?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Selecty",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63eae"
+        },
+        "Link": "https://hh.ru/vacancy/67136583?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist в Блок Управление благосостоянием"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63eb0"
+        },
+        "Link": "https://hh.ru/vacancy/66719843?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior Data scientist (Computer Vision)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63eb2"
+        },
+        "Link": "https://hh.ru/vacancy/66833677?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "ООО РЕСТАДВАЙЗЕР",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": 300000.0,
+        "Salary_min_rub": 300000.0,
+        "Vacancy": "Data Scientist c опытом NLP (Middle / Senior)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63eb4"
+        },
+        "Link": "https://hh.ru/vacancy/43658985?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО Актион Технологии",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (NLP)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63eb6"
+        },
+        "Link": "https://hh.ru/vacancy/67443393?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ПАО Первая Грузовая Компания, IT/Digital",
+        "Place": "Москва, Бауманская и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63eb8"
+        },
+        "Link": "https://hh.ru/vacancy/67509075?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Selecty",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist (аналитик данных)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63eba"
+        },
+        "Link": "https://hh.ru/vacancy/66612510?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО Марс",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Analytics Lead"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63ebc"
+        },
+        "Link": "https://hh.ru/vacancy/67467081?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва, Выставочная",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist (senior), Управление ML"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63ebe"
+        },
+        "Link": "https://hh.ru/vacancy/67463282?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "СберМегаМаркет",
+        "Place": "Москва, Новокузнецкая и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (CV/NLP)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63ec0"
+        },
+        "Link": "https://hh.ru/vacancy/67504519?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер для экспертов",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior Data Scientist в команду ботов в SberCare"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f19672fcae09de63ec2"
+        },
+        "Link": "https://hh.ru/vacancy/55120326?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер для экспертов",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Lead Data Scientist ML/CV"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ec4"
+        },
+        "Link": "https://hh.ru/vacancy/67409356?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "INSITECH Development",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ec6"
+        },
+        "Link": "https://hh.ru/vacancy/67409357?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "INSITECH Development",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ec8"
+        },
+        "Link": "https://hh.ru/vacancy/67409358?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "INSITECH Development",
+        "Place": "Казань",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63eca"
+        },
+        "Link": "https://hh.ru/vacancy/67409359?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "INSITECH Development",
+        "Place": "Екатеринбург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ecc"
+        },
+        "Link": "https://hh.ru/vacancy/54549975?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Okko",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ece"
+        },
+        "Link": "https://hh.ru/vacancy/66875697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "билайн: ИТ, Data, Digital",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data engineer (Middle)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ed0"
+        },
+        "Link": "https://hh.ru/vacancy/67467720?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва, Выставочная",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist (middle), Управление ML"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ed2"
+        },
+        "Link": "https://hh.ru/vacancy/67407705?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (ML)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ed4"
+        },
+        "Link": "https://hh.ru/vacancy/66625736?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "СберМегаМаркет",
+        "Place": "Москва, Новокузнецкая и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Team lead data scientist (Машинное обучение и матчинг)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ed6"
+        },
+        "Link": "https://hh.ru/vacancy/67118778?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "BI.ZONE Направление Кибербезопасность",
+        "Place": "Москва, Бауманская и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior data scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ed8"
+        },
+        "Link": "https://hh.ru/vacancy/66098655?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО ОРИМИ ТРЭЙД",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Старший аналитик"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63eda"
+        },
+        "Link": "https://hh.ru/vacancy/67361856?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер для экспертов",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior/Middle Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63edc"
+        },
+        "Link": "https://hh.ru/vacancy/54899635?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "Hi, Rockits!",
+        "Place": "Москва",
+        "Salary_max": 400000.0,
+        "Salary_max_rub": 400000.0,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Python-разработчик"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ede"
+        },
+        "Link": "https://hh.ru/vacancy/54845874?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва, Выставочная",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist (эксперт) в управление процессных и финансовых моделей (Big Data)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ee0"
+        },
+        "Link": "https://hh.ru/vacancy/54854132?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва, Выставочная",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist (директор) в управление процессных и финансовых моделей (Big Data)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ee2"
+        },
+        "Link": "https://hh.ru/vacancy/67266840?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Корпорация ЭЛАР",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ee4"
+        },
+        "Link": "https://hh.ru/vacancy/67536144?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "ООО Виго Лаб",
+        "Place": "Санкт-Петербург, Петроградская",
+        "Salary_max": 400000.0,
+        "Salary_max_rub": 400000.0,
+        "Salary_min": 220000.0,
+        "Salary_min_rub": 220000.0,
+        "Vacancy": "Senior/Middle Java Developer"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ee6"
+        },
+        "Link": "https://hh.ru/vacancy/67277899?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО Марс",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63ee8"
+        },
+        "Link": "https://hh.ru/vacancy/66552134?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Techno Diasoft",
+        "Place": "Москва, Верхние Котлы и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Java разработчик (Big Data)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1a672fcae09de63eea"
+        },
+        "Link": "https://hh.ru/vacancy/67279382?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер для экспертов",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior/Team Lead Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63eec"
+        },
+        "Link": "https://hh.ru/vacancy/66107360?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва, Кутузовская и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data engineer (MLOps)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63eee"
+        },
+        "Link": "https://hh.ru/vacancy/67260349?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО Виэйинтеллидженс",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Team Lead/Senior Analyst"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63ef0"
+        },
+        "Link": "https://hh.ru/vacancy/46213657?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Click",
+        "Place": "Санкт-Петербург, Петроградская",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Ведущий Data Scientist/ RNA Lead"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63ef2"
+        },
+        "Link": "https://hh.ru/vacancy/54618349?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Playrix",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (User Acquisition)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63ef4"
+        },
+        "Link": "https://hh.ru/vacancy/66616524?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Ridex GmbH",
+        "Place": "Новосибирск, Площадь Ленина",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle Data engineer"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63ef6"
+        },
+        "Link": "https://hh.ru/vacancy/67399907?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Ситимобил (ООО Транс-Миссия)",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Strong Middle Data Scientist [Surge Pricing]"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63ef8"
+        },
+        "Link": "https://hh.ru/vacancy/67547614?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер для экспертов",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Lead Java Developer"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63efa"
+        },
+        "Link": "https://hh.ru/vacancy/67167686?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Lamoda",
+        "Place": "Москва, Полежаевская и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63efc"
+        },
+        "Link": "https://hh.ru/vacancy/67422169?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "Соколов Андрей Владимирович",
+        "Place": "Москва",
+        "Salary_max": 300000.0,
+        "Salary_max_rub": 300000.0,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior HR Recruiter в группу компаний"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63efe"
+        },
+        "Link": "https://hh.ru/vacancy/55862838?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ПАО Первая Грузовая Компания, IT/Digital",
+        "Place": "Москва, Бауманская и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f00"
+        },
+        "Link": "https://hh.ru/vacancy/67072851?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "USD",
+        "Employer": "Hunt For You",
+        "Place": "Москва",
+        "Salary_max": 7000.0,
+        "Salary_max_rub": 441998.89999999997,
+        "Salary_min": 6000.0,
+        "Salary_min_rub": 378856.2,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f02"
+        },
+        "Link": "https://hh.ru/vacancy/67443753?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Tele2",
+        "Place": "Москва, Румянцево",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Head of Data Science"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f04"
+        },
+        "Link": "https://hh.ru/vacancy/67399680?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва, Кутузовская и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Валидатор моделей банковской и торговой книг (Data scientist)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f06"
+        },
+        "Link": "https://hh.ru/vacancy/67089452?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Lead Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f08"
+        },
+        "Link": "https://hh.ru/vacancy/67083788?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "INSITECH Development",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Lead Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f0a"
+        },
+        "Link": "https://hh.ru/vacancy/67083789?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "INSITECH Development",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Lead Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f0c"
+        },
+        "Link": "https://hh.ru/vacancy/66526648?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ПАО АК АЛРОСА",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Главный эксперт по анализу данных (data analyst/data scientist/аналитик данных)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f0e"
+        },
+        "Link": "https://hh.ru/vacancy/67088082?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ПАО МегаФон, IT",
+        "Place": "Москва, Маяковская и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data scientist / Team lead Data scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f10"
+        },
+        "Link": "https://hh.ru/vacancy/67054541?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "БИОКАД, биотехнологическая компания",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1b672fcae09de63f12"
+        },
+        "Link": "https://hh.ru/vacancy/66122051?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "«РОСБАНК»",
+        "Place": "Москва, Международная",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f14"
+        },
+        "Link": "https://hh.ru/vacancy/66921653?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "Mindbox",
+        "Place": "Москва, Белорусская и еще 1 ",
+        "Salary_max": 350000.0,
+        "Salary_max_rub": 350000.0,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist/ ML Engineer"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f16"
+        },
+        "Link": "https://hh.ru/vacancy/66952893?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Rutube",
+        "Place": "Москва, Проспект Мира и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (Автомодерация)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f18"
+        },
+        "Link": "https://hh.ru/vacancy/66586909?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "«РОСБАНК»",
+        "Place": "Москва, Международная",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Engineer"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f1a"
+        },
+        "Link": "https://hh.ru/vacancy/55083625?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Технологии Доверия, Департамент Консалтинг",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f1c"
+        },
+        "Link": "https://hh.ru/vacancy/66982068?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "АО РТ Лабс",
+        "Place": "Москва, Проспект Вернадского",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Lead/Senior data scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f1e"
+        },
+        "Link": "https://hh.ru/vacancy/54549927?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Okko",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f20"
+        },
+        "Link": "https://hh.ru/vacancy/67259113?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. IT",
+        "Place": "Нижний Новгород",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist в области рекомендательных систем"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f22"
+        },
+        "Link": "https://hh.ru/vacancy/66863315?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. IT",
+        "Place": "Москва, Кутузовская",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f24"
+        },
+        "Link": "https://hh.ru/vacancy/66555766?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО Транснефть-Технологии",
+        "Place": "Москва, Зорге и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f26"
+        },
+        "Link": "https://hh.ru/vacancy/66954093?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Офисная вакансия Yum! Brands",
+        "Place": "Москва, Войковская",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior (Head) Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f28"
+        },
+        "Link": "https://hh.ru/vacancy/66929111?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Северсталь. Управляющая компания",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f2a"
+        },
+        "Link": "https://hh.ru/vacancy/66911707?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО СберОбразование",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f2c"
+        },
+        "Link": "https://hh.ru/vacancy/67280113?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва, Кутузовская и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist (Центр валидации моделей сервисных блоков и экосистемы)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f2e"
+        },
+        "Link": "https://hh.ru/vacancy/67367210?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Кофакс",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Principal Research Scientist (Montenegro)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f30"
+        },
+        "Link": "https://hh.ru/vacancy/67328520?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва, Кутузовская",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Chief Data Science (Цифровой кредитный мониторинг)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f32"
+        },
+        "Link": "https://hh.ru/vacancy/66206307?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. IT",
+        "Place": "Москва, Кутузовская",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Lead Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f34"
+        },
+        "Link": "https://hh.ru/vacancy/66929110?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Северсталь. Управляющая компания",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior Data Scientist (ML)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f36"
+        },
+        "Link": "https://hh.ru/vacancy/54996943?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ПАО «МТС», IT",
+        "Place": "Москва, Технопарк",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist / ML-инженер (Big Data)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f38"
+        },
+        "Link": "https://hh.ru/vacancy/50388691?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist (Валидация скоринговых моделей)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1c672fcae09de63f3a"
+        },
+        "Link": "https://hh.ru/vacancy/55307831?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "«РОСБАНК»",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (оценка моделей)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f3c"
+        },
+        "Link": "https://hh.ru/vacancy/55532051?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Bell Integrator",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f3e"
+        },
+        "Link": "https://hh.ru/vacancy/66929304?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Северсталь. Управляющая компания",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle / Senior Data Scientist (Computer Vision)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f40"
+        },
+        "Link": "https://hh.ru/vacancy/66903198?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "«РОСБАНК»",
+        "Place": "Москва, Международная",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist (middle)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f42"
+        },
+        "Link": "https://hh.ru/vacancy/66578548?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. Data Science",
+        "Place": "Москва, Кутузовская и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist (команда оценки ALM)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f44"
+        },
+        "Link": "https://hh.ru/vacancy/53269426?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер для экспертов",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Senior Data Scientist/ML Engineer SberDevices"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f46"
+        },
+        "Link": "https://hh.ru/vacancy/66703417?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Газпромбанк",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Аналитик/Data scientist (Senior)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f48"
+        },
+        "Link": "https://hh.ru/vacancy/54682944?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сбер. IT",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Scientist (Рекомендательная система)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f4a"
+        },
+        "Link": "https://hh.ru/vacancy/66906589?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "СберМаркет",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Team Lead Data Scientist в СберМаркет [команда поиска]"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f4c"
+        },
+        "Link": "https://hh.ru/vacancy/66795472?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Быстроденьги",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Ведущий специалист отдела математического моделирования (Data Scientist)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f4e"
+        },
+        "Link": "https://hh.ru/vacancy/55388072?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Университет Иннополис",
+        "Place": "Казань",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior разработчик систем компьютерного зрения (Data Scientist)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f50"
+        },
+        "Link": "https://hh.ru/vacancy/50605612?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "VK",
+        "Place": "Санкт-Петербург, Гостиный двор и еще 1 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist / Machine learning engineer (команда CoreML ВКонтакте)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f52"
+        },
+        "Link": "https://hh.ru/vacancy/66815191?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Северсталь. IT & Digital",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Аналитик данных/Middle Data scientist (Computer Vision )"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f54"
+        },
+        "Link": "https://hh.ru/vacancy/43366306?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва, Выставочная и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist по построению моделей оценки кредитного риска (Big Data)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f56"
+        },
+        "Link": "https://hh.ru/vacancy/66876832?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО «Газпромнефть-Региональные продажи»",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Team Lead Data Science"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f58"
+        },
+        "Link": "https://hh.ru/vacancy/66760058?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Университет Иннополис",
+        "Place": "Казань",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior разработчик систем обработки естественного языка (NLP, ML/Data Scientist)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f5a"
+        },
+        "Link": "https://hh.ru/vacancy/55531454?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва, Деловой центр и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist (модели оценки кредитного риска для клиентов корпоративного бизнеса) Big Data"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f5c"
+        },
+        "Link": "https://hh.ru/vacancy/66979437?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "СИНЕРГИЯ",
+        "Place": "Москва, Сокол",
+        "Salary_max": 80000.0,
+        "Salary_max_rub": 80000.0,
+        "Salary_min": 55000.0,
+        "Salary_min_rub": 55000.0,
+        "Vacancy": "Менеджер по продажам курсов в сфере IT и Digital в Synergy Academy"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f5e"
+        },
+        "Link": "https://hh.ru/vacancy/54585048?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data scientist Управления модельных рисков и валидации"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f60"
+        },
+        "Link": "https://hh.ru/vacancy/66073263?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "EUR",
+        "Employer": "Wisebits",
+        "Place": "Новосибирск",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": 3500.0,
+        "Salary_min_rub": 224472.15,
+        "Vacancy": "Senior Python developer (MLOps)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1d672fcae09de63f62"
+        },
+        "Link": "https://hh.ru/vacancy/55856392?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "EUR",
+        "Employer": "Wisebits",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": 3500.0,
+        "Salary_min_rub": 224472.15,
+        "Vacancy": "Senior Python developer (MLOps)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f66"
+        },
+        "Link": "https://hh.ru/vacancy/66932922?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "The Skolkovo Institute of Science and Technology",
+        "Place": "Москва, Славянский бульвар",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Research Scientist (Center for AgroTechnologies)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f68"
+        },
+        "Link": "https://hh.ru/vacancy/55373640?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Junior Data Scientist Управления модельных рисков и валидации"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f6a"
+        },
+        "Link": "https://hh.ru/vacancy/67050645?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "The Skolkovo Institute of Science and Technology",
+        "Place": "Москва, Славянский бульвар",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Research Scientist in the area of Animal bioinformatics"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f6c"
+        },
+        "Link": "https://hh.ru/vacancy/55271924?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "ООО АЙБРЕЙН",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Data Analyst"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f6e"
+        },
+        "Link": "https://hh.ru/vacancy/66917839?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Crezu",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle/Senior Analyst (remote)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f70"
+        },
+        "Link": "https://hh.ru/vacancy/67281013?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "COMTEK Inc.",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Software Engineer - Analytics Execution"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f72"
+        },
+        "Link": "https://hh.ru/vacancy/66826517?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "USD",
+        "Employer": "Hunt For You",
+        "Place": "Москва",
+        "Salary_max": 8000.0,
+        "Salary_max_rub": 505141.6,
+        "Salary_min": 6000.0,
+        "Salary_min_rub": 378856.2,
+        "Vacancy": "Senior Python Developer (MLOps tool + OpenSource / US-startup)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f74"
+        },
+        "Link": "https://hh.ru/vacancy/67419259?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "руб.",
+        "Employer": "Mego.travel",
+        "Place": "Санкт-Петербург",
+        "Salary_max": 110000.0,
+        "Salary_max_rub": 110000.0,
+        "Salary_min": 70000.0,
+        "Salary_min_rub": 70000.0,
+        "Vacancy": "SEO-специалист"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f76"
+        },
+        "Link": "https://hh.ru/vacancy/54300274?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "НКО Национальный Клиринговый Центр (АО)",
+        "Place": "Москва, Бауманская",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Старший аналитик Отдел развития хранилищ данных"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f78"
+        },
+        "Link": "https://hh.ru/vacancy/67261918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Банк ВТБ (ПАО)",
+        "Place": "Москва, Выставочная и еще 2 ",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Директор в отделе портфельного риск-анализа (потребительские кредиты)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f7a"
+        },
+        "Link": "https://hh.ru/vacancy/67155388?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": "USD",
+        "Employer": "Hunt For You",
+        "Place": "Москва",
+        "Salary_max": 9000.0,
+        "Salary_max_rub": 568284.2999999999,
+        "Salary_min": 7000.0,
+        "Salary_min_rub": 441998.89999999997,
+        "Vacancy": "Python Backend Engineer (ML Platform)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f7c"
+        },
+        "Link": "https://hh.ru/vacancy/67000673?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "NielsenIQ",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Statistical Operations Analyst"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f7e"
+        },
+        "Link": "https://hh.ru/vacancy/67136086?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Сибур",
+        "Place": "Москва, Профсоюзная",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Аналитик данных (Технологическая оптимизация)"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f80"
+        },
+        "Link": "https://hh.ru/vacancy/66104677?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Яндекс Практикум",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle+ Communication Designer at Practicum USA"
+    },
+    {
+        "_id": {
+            "$oid": "62c80f1e672fcae09de63f82"
+        },
+        "Link": "https://hh.ru/vacancy/66104676?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Data%20scientist%20senior",
+        "Currency": null,
+        "Employer": "Яндекс Практикум",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_max_rub": null,
+        "Salary_min": null,
+        "Salary_min_rub": null,
+        "Vacancy": "Middle+ Communication Designer at Practicum USA"
+    }
+]
