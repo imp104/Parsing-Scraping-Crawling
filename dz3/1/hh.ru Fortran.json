@@ -1,0 +1,156 @@
+[
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe42"
+        },
+        "Link": "https://hh.ru/vacancy/66847185?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": "руб.",
+        "Employer": "ОАО НИИ парашютостроения",
+        "Place": "Москва, Щелковская",
+        "Salary_max": null,
+        "Salary_min": 80000,
+        "Vacancy": "Ведущий инженер/ведущий научный сотрудник",
+        "Salary_max_rub": null,
+        "Salary_min_rub": 80000
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe44"
+        },
+        "Link": "https://hh.ru/vacancy/66850430?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": "руб.",
+        "Employer": "ОАО НИИ парашютостроения",
+        "Place": "Москва, Щелковская",
+        "Salary_max": null,
+        "Salary_min": 80000,
+        "Vacancy": "Ведущий инженер/Ведущий научный сотрудник (прочность)",
+        "Salary_max_rub": null,
+        "Salary_min_rub": 80000
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe46"
+        },
+        "Link": "https://hh.ru/vacancy/54770574?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": null,
+        "Employer": "Ритм",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_min": null,
+        "Vacancy": "Программирующий математик",
+        "Salary_max_rub": null,
+        "Salary_min_rub": null
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe48"
+        },
+        "Link": "https://hh.ru/vacancy/48615579?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": null,
+        "Employer": "АО Климов",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_min": null,
+        "Vacancy": "Инженер-конструктор, ПБ \"Автоматика\"",
+        "Salary_max_rub": null,
+        "Salary_min_rub": null
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe4a"
+        },
+        "Link": "https://hh.ru/vacancy/48212364?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": "руб.",
+        "Employer": "ПАО Туполев",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_min": 80000,
+        "Vacancy": "Инженер-конструктор 1 категории отдела авиационной теплофизики",
+        "Salary_max_rub": null,
+        "Salary_min_rub": 80000
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe4c"
+        },
+        "Link": "https://hh.ru/vacancy/67395997?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": null,
+        "Employer": "ГК CompMechLab",
+        "Place": "Санкт-Петербург",
+        "Salary_max": null,
+        "Salary_min": null,
+        "Vacancy": "Инженер-расчетчик / Ведущий инженер-расчетчик (CFD / производственные процессы)",
+        "Salary_max_rub": null,
+        "Salary_min_rub": null
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe4e"
+        },
+        "Link": "https://hh.ru/vacancy/67296378?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": "руб.",
+        "Employer": "ФГБУ Авиаметтелеком Росгидромета",
+        "Place": "Москва",
+        "Salary_max": 90000,
+        "Salary_min": null,
+        "Vacancy": "PHP-программист (Backend-разработчик)",
+        "Salary_max_rub": 90000,
+        "Salary_min_rub": null
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe50"
+        },
+        "Link": "https://hh.ru/vacancy/44873697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": "руб.",
+        "Employer": "АО Русатом Сервис",
+        "Place": "Москва, Профсоюзная",
+        "Salary_max": 65000,
+        "Salary_min": null,
+        "Vacancy": "Младший инженер-теплогидравлик",
+        "Salary_max_rub": 65000,
+        "Salary_min_rub": null
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe52"
+        },
+        "Link": "https://hh.ru/vacancy/55521068?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": null,
+        "Employer": "Молния",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_min": null,
+        "Vacancy": "Ведущий инженер в отдел баллистики и динамики полёта",
+        "Salary_max_rub": null,
+        "Salary_min_rub": null
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe54"
+        },
+        "Link": "https://hh.ru/vacancy/66983549?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": null,
+        "Employer": "ООО Моринтех",
+        "Place": "Москва",
+        "Salary_max": null,
+        "Salary_min": null,
+        "Vacancy": "Океанолог-гидрометеоролог",
+        "Salary_max_rub": null,
+        "Salary_min_rub": null
+    },
+    {
+        "_id": {
+            "$oid": "62c708ba672fcae09de5fe56"
+        },
+        "Link": "https://hh.ru/vacancy/66105621?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Fortran",
+        "Currency": "руб.",
+        "Employer": "ФГУП НИЦ Курчатовский институт - ВИАМ",
+        "Place": "Москва, Бауманская и еще 1 ",
+        "Salary_max": 100000,
+        "Salary_min": 60000,
+        "Vacancy": "Инженер-радиотехник",
+        "Salary_max_rub": 100000,
+        "Salary_min_rub": 60000
+    }
+]
