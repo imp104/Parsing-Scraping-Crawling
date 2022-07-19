@@ -1,0 +1,226 @@
+[
+    {
+        "_id": {
+            "$oid": "62d15bc7cd93748c07ce5e91"
+        },
+        "Link": "https://www.mvideo.ru/products/split-sistema-rapid-ram-12hj-n1-20071766",
+        "Additional terms": "0-0-12 Мегарассрочка",
+        "Bonus": "+600 Бонусных рублей",
+        "Current price": 19999,
+        "Discount percent": "-33%",
+        "Old price": 29999,
+        "Product name": "Сплит-система Rapid RAM-12HJ/N1",
+        "Rating": "4,4",
+        "Reviews count": "16 отзывов"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc7cd93748c07ce5e93"
+        },
+        "Link": "https://www.mvideo.ru/products/ventilyator-kolonnyi-tefal-eole-vf6670f0-20038610",
+        "Additional terms": "-10% на комплект",
+        "Bonus": "+270 Бонусных рублей",
+        "Current price": 8999,
+        "Discount percent": "-28%",
+        "Old price": 12499,
+        "Product name": "Вентилятор колонный Tefal Eole VF6670F0",
+        "Rating": "4,5",
+        "Reviews count": "142 отзыва"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc7cd93748c07ce5e95"
+        },
+        "Link": "https://www.mvideo.ru/products/ventilyator-napolnyi-timberk-t-sf1601rc-20078451",
+        "Additional terms": "-40% на сетевой фильтр",
+        "Bonus": "+75 Бонусных рублей",
+        "Current price": 2499,
+        "Discount percent": "",
+        "Old price": -1,
+        "Product name": "Вентилятор напольный Timberk T-SF1601RC",
+        "Rating": "4,3",
+        "Reviews count": "24 отзыва"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5e97"
+        },
+        "Link": "https://www.mvideo.ru/products/elektricheskii-samokat-acer-electric-scooter-aes003-gpg1411001-10028614",
+        "Additional terms": "0-0-6 Мегарассрочка",
+        "Bonus": "+750 Бонусных рублей",
+        "Current price": 24999,
+        "Discount percent": "",
+        "Old price": -1,
+        "Product name": "Электрический самокат Acer Electric Scooter AES003 (GP.G1411.001)",
+        "Rating": "4,6",
+        "Reviews count": "5 отзывов"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5e99"
+        },
+        "Link": "https://www.mvideo.ru/products/avtomoika-karcher-k3-1601-8880-20079187",
+        "Additional terms": "-40% на сетевой фильтр",
+        "Bonus": "+216 Бонусных рублей",
+        "Current price": 7199,
+        "Discount percent": "",
+        "Old price": -1,
+        "Product name": "Автомойка Karcher K3 (1.601-888.0)",
+        "Rating": "5,0",
+        "Reviews count": "4 отзыва"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5e9b"
+        },
+        "Link": "https://www.mvideo.ru/products/robot-stekloochistitel-atvel-zorro-z5-4116389",
+        "Additional terms": "",
+        "Bonus": "+780 Бонусных рублей",
+        "Current price": 25990,
+        "Discount percent": "-10%",
+        "Old price": 28990,
+        "Product name": "Робот-стеклоочиститель Atvel Zorro Z5",
+        "Rating": "4,8",
+        "Reviews count": "20 отзывов"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5e9d"
+        },
+        "Link": "https://www.mvideo.ru/products/televizor-novex-nwt-40f171ms-10024674",
+        "Additional terms": "0-0-6 Мегарассрочка",
+        "Bonus": "+459 Бонусных рублей",
+        "Current price": 15299,
+        "Discount percent": "",
+        "Old price": -1,
+        "Product name": "Телевизор Novex NWT-40F171MS",
+        "Rating": "4,3",
+        "Reviews count": "31 отзыв"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5e9f"
+        },
+        "Link": "https://www.mvideo.ru/products/besprovodnaya-akustika-jbl-xtreme-3-gray-10025753",
+        "Additional terms": "0-0-6 Мегарассрочка",
+        "Bonus": "+660 Бонусных рублей",
+        "Current price": 21999,
+        "Discount percent": "",
+        "Old price": -1,
+        "Product name": "Беспроводная акустика JBL Xtreme-3 Gray",
+        "Rating": "4,8",
+        "Reviews count": "10 отзывов"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5ea1"
+        },
+        "Link": "https://www.mvideo.ru/products/ventilyator-kolonnyi-vitek-vt-1942-20051930",
+        "Additional terms": "Ликвидация!",
+        "Bonus": "+102 Бонусных рубля",
+        "Current price": 3399,
+        "Discount percent": "-35%",
+        "Old price": 5199,
+        "Product name": "Вентилятор колонный Vitek VT-1942",
+        "Rating": "4,4",
+        "Reviews count": "101 отзыв"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5ea3"
+        },
+        "Link": "https://www.mvideo.ru/products/elektricheskii-samokat-ninebot-kickscooter-f40-10028406",
+        "Additional terms": "0-0-24 Мегарассрочка",
+        "Bonus": "+1 170 Бонусных рублей",
+        "Current price": 38999,
+        "Discount percent": "-35%",
+        "Old price": 59999,
+        "Product name": "Электрический самокат Ninebot KickScooter F40",
+        "Rating": "4,8",
+        "Reviews count": "12 отзывов"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5ea5"
+        },
+        "Link": "https://www.mvideo.ru/products/robot-pylesos-tefal-x-plorer-serie-60-allergy-kitrg7447wh-20068272",
+        "Additional terms": "-10% на комплект",
+        "Bonus": "+600 Бонусных рублей",
+        "Current price": 19999,
+        "Discount percent": "-46%",
+        "Old price": 36999,
+        "Product name": "Робот-пылесос Tefal X-plorer serie 60 Allergy Kit(RG7447WH)",
+        "Rating": "4,8",
+        "Reviews count": "95 отзывов"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5ea7"
+        },
+        "Link": "https://www.mvideo.ru/products/umnaya-kolonka-yandeks-stanciya-lait-ultrafiolet-yndx-00025p-10027508",
+        "Additional terms": "Ликвидация!",
+        "Bonus": "+120 Бонусных рублей",
+        "Current price": 3999,
+        "Discount percent": "-20%",
+        "Old price": 4999,
+        "Product name": "Умная колонка Яндекс Станция Лайт Ультрафиолет (YNDX-00025P)",
+        "Rating": "4,1",
+        "Reviews count": "17 отзывов"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5ea9"
+        },
+        "Link": "https://www.mvideo.ru/products/vodonagrevatel-nakopitelnyi-haier-es80v-a2-20037943",
+        "Additional terms": "-10% на комплект",
+        "Bonus": "+210 Бонусных рублей",
+        "Current price": 6999,
+        "Discount percent": "-40%",
+        "Old price": 11699,
+        "Product name": "Водонагреватель накопительный Haier ES80V-A2",
+        "Rating": "4,5",
+        "Reviews count": "37 отзывов"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc8cd93748c07ce5eab"
+        },
+        "Link": "https://www.mvideo.ru/products/split-sistema-invertor-samsung-ar12txhqasinua-20080226",
+        "Additional terms": "Гарантия продавца",
+        "Bonus": "+1 140 Бонусных рублей",
+        "Current price": 37999,
+        "Discount percent": "",
+        "Old price": -1,
+        "Product name": "Сплит-система (инвертор) Samsung AR12TXHQASINUA",
+        "Rating": "5,0",
+        "Reviews count": "6 отзывов"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc9cd93748c07ce5ead"
+        },
+        "Link": "https://www.mvideo.ru/products/vozduhouvlazhnitel-midea-mhu-3024mw-20077670",
+        "Additional terms": "-40% на сетевой фильтр",
+        "Bonus": "+84 Бонусных рубля",
+        "Current price": 2799,
+        "Discount percent": "",
+        "Old price": -1,
+        "Product name": "Воздухоувлажнитель Midea MHU 3024MW",
+        "Rating": "5,0",
+        "Reviews count": "4 отзыва"
+    },
+    {
+        "_id": {
+            "$oid": "62d15bc9cd93748c07ce5eaf"
+        },
+        "Link": "https://www.mvideo.ru/products/komplekt-sputnikovogo-tv-trikolor-centr-na-1tv-gs-b528-10023960",
+        "Additional terms": "Установка бесплатно!",
+        "Bonus": "+240 Бонусных рублей",
+        "Current price": 7999,
+        "Discount percent": "",
+        "Old price": -1,
+        "Product name": "Комплект спутникового ТВ Триколор Центр на 1ТВ GS B528",
+        "Rating": "5,0",
+        "Reviews count": "3 отзыва"
+    }
+]
